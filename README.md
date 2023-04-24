@@ -31,6 +31,6 @@
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-peanut&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-peanut&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Luks&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-Luls&show_icons=true">
 </div>
