@@ -7,7 +7,7 @@
 💚 1998.04.29 <br>
 📞 010-9283-7403 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltpdy0722@gmail.com)](mailto:spiltpdy0722@gmail.com) <span><a href="https://www.notion.so/cc930a35f45e491a8b587b57329d5b96?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltpdy0722@gmail.com)](mailto:spiltpdy0722@gmail.com) <span><a href="https://feather-earthworm-f23.notion.site/cc930a35f45e491a8b587b57329d5b96?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
